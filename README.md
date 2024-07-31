@@ -1,0 +1,1 @@
+Bu program, bir sokak üzerindeki evleri temsil eden bir dizi boyunca dolaşır ve belirli bir eve üç kez ulaşılana kadar mesafeleri hesaplar. Her adımda mevcut, önceki indeksler ve toplam mesafe ekrana yazdırılır.
